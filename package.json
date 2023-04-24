@@ -1,0 +1,14 @@
+{
+  "name": "group-code-challenge",
+  "version": "1.0.0",
+  "description": "An app that keep track of all expenses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Group 5",
+  "license": "MIT",
+  "dependencies": {
+    "node-modules": "^1.0.1"
+  }
+}
